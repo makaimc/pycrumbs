@@ -72,6 +72,7 @@
 ##Beginner's Delight
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
+* [Full Stack Python](http://www.fullstackpython.com/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Learn Python](http://www.learnpython.org/)
 * [Google's Python class](https://developers.google.com/edu/python/)
